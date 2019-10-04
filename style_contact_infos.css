@@ -1,0 +1,20 @@
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+}
+
+.textarea{
+		width: 200px;
+	height: 300px;
+}
+
+body{
+	background-color: navy blue;
+}
