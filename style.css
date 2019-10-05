@@ -1,6 +1,6 @@
 .profilePicture{
-	width: 263px;
-	height: 337px;
+	width: 10%;
+	height: 50%;
 }
 header {
 	font-family: "Time New Roman";
@@ -8,4 +8,9 @@ header {
 
 body {
   background-image: "img/vagues.jpg"; 
+}
+
+h1 {
+    text-align: center;
+    border-width: 30%;
 }
