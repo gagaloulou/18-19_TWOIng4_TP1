@@ -1,13 +1,16 @@
 h1 {
     text-align: center;
+    color: white;
 }
 
 h2 {
     text-align: center;
+    color: white;
 }
 
 h3 {
     text-align: center;
+    color: white;
 }
 
 .textarea{
@@ -15,8 +18,14 @@ h3 {
 	height: 300px;
 }
 
-/*
+
 body{
-	background-color: #84ABF9;
+	background-image: url("img/surf.jpg"); 
+	/*width: 200px;
+	height: 300px;*/
+	background-size: cover;
 }
-*/
+
+.navbar-expand-lg{
+	background-color: #F8F8F8;
+}
