@@ -15,4 +15,12 @@ body{
 video{
 	width: 30%;
 	height: 80%;
+	margin-left: 480px;
+}
+
+.RugbyPicture{
+	width: 30%;
+	height: 80%;
+	margin-left: 600px;
+
 }
