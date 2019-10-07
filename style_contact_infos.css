@@ -29,3 +29,14 @@ body{
 .navbar-expand-lg{
 	background-color: #F8F8F8;
 }
+
+
+a.button{
+		display:block;
+		color:#white;
+		font-weight:bold;
+		height:30px;
+		line-height:29px;
+		margin-left:650px;
+		width:191px;
+	}

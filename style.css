@@ -45,3 +45,45 @@ textarea{
 	background-color: transparent;
 	margin-left: 25%;
 }
+
+/*ANIMATION*/
+
+/*body {
+  font: 20px Arial;
+  text-align: center;
+  margin-top: 6em;
+}*/
+
+h4 {
+  color: green;
+  animation: bounce .5s alternate 0.1s infinite ease-in;
+  text-align: center;
+}
+
+
+@keyframes bounce {
+  100% {
+    transform: translateY(-200%);
+  }
+  0% {
+    transform: translateY(0);
+  }
+}
+
+
+
+
+/*Animation photo qui rebondit (non fonctionnelle)*/
+
+/*.profilePictureBounce{
+	animation: bounce .5s alternate 0.1s infinite ease-in;
+}
+
+@keyframes bounce {
+  0% {
+    transform: translateY(-200%);
+  }
+  100% {
+    transform: translateY(0);
+  }
+}*/
